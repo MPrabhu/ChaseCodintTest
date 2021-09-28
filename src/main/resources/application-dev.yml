@@ -1,0 +1,7 @@
+providers:
+    name:
+      - provider1
+      - provider2
+    url:
+      - https://provider1.com/v1/api/account/validate
+      - https://provider2.com/v2/api/account/validate
